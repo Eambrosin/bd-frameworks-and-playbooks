@@ -1,5 +1,8 @@
 # Market Prioritization Dashboard
 
+> **Illustrative example:** scores and expansion sequence below are hypothetical and should not be interpreted as current market research or a real recommendation.
+
+
 ## Opportunity Scorecard
 
 | Market       | Market Size | Ease of Entry | Regulatory Complexity | Strategic Value | Final Score |
