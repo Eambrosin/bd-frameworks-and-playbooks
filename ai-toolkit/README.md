@@ -1,93 +1,59 @@
-<p align="center">
-  <img src="assets/banners/global-operation.jpg" width="900"/>
-</p>
+# Commercial Intelligence Concept Prototypes
 
-# AI Business Development Toolkit
+This folder contains **conceptual dashboards and strategic analysis artifacts** developed while exploring the broader AI-assisted Commercial Intelligence portfolio.
 
-### AI-Driven Business Development | Strategic Intelligence | International Expansion | Commercial Operations
+The implemented portfolio hub now lives here:
 
-A strategic portfolio focused on AI-assisted business development, international market expansion, geopolitical intelligence, commercial operations, and strategic partnerships.
+**[AI Business Development Toolkit](https://github.com/Eambrosin/AI-Business-Development-Toolkit)**
 
-This repository explores how artificial intelligence, market intelligence, and operational strategy can support scalable international business growth across emerging and global markets.
+The production-style portfolio applications are:
 
----
-
-## Strategic Focus Areas
-
-* AI-Assisted Commercial Operations
-* International Market Expansion
-* Strategic Partnerships & Ecosystem Intelligence
-* Geopolitical & Regulatory Risk Analysis
-* Executive Dashboards & Business Analytics
-* AI Workflow Automation
-* Government & Institutional Strategy
-* International Growth Operations
+- [Lead Qualification & Revenue Prioritization](https://github.com/Eambrosin/lead-qualification-scorer)
+- [Adaptive Outreach Intelligence](https://github.com/Eambrosin/outreach-sequence-generator)
+- [Partnership Opportunity Finder](https://github.com/Eambrosin/partnership-opportunity-finder)
 
 ---
 
-# Featured Strategic Projects
+## What This Folder Contains
 
-| Project                        | Strategic Area                                            |
-| ------------------------------ | --------------------------------------------------------- |
-| Market Expansion Analysis      | International growth strategy and market prioritization   |
-| AI Lead Qualification          | AI-assisted commercial intelligence workflows             |
-| Geopolitical Business Risk     | Political, regulatory, and operational risk analysis      |
-| Strategic Partnership Research | Partnership ecosystem mapping and strategic intelligence  |
-| Automation Workflows           | AI-enhanced operational efficiency and automation systems |
+### [AI-Assisted Market Expansion Analysis](intelligence/market-expansion-analysis.md)
+Concept note exploring how structured data and AI-assisted workflows can support market-expansion analysis.
 
----
-# Executive Positioning
+### Global Expansion Intelligence Dashboard
 
-This repository reflects a strategic approach to combining:
+![Global Expansion Intelligence Dashboard](assets/screenshots/global-expansion-dashboard.png)
 
-* Artificial Intelligence
-* International Business Development
-* Commercial Operations
-* Strategic Intelligence
-* Market Expansion
-* Geopolitical Risk Assessment
-* Institutional & Government Relations
+Conceptual executive visualization for market prioritization and international expansion.
 
-The objective is to explore how AI and business intelligence can support scalable international operations, strategic growth, and cross-border commercial expansion.
+### AI Commercial Operations Dashboard
 
----
+![AI Commercial Operations Dashboard](assets/screenshots/ai-commercial-operations-dashboard.png)
 
-# Executive Dashboards
+Conceptual visualization connecting pipeline intelligence, commercial prioritization and workflow automation.
 
-## Global Expansion Intelligence Dashboard
+### Geopolitical Risk Intelligence Matrix
 
-AI-assisted executive dashboard focused on international market prioritization, geopolitical intelligence, strategic partnerships, and commercial expansion opportunities.
+![Geopolitical Risk Intelligence Matrix](assets/screenshots/geopolitical-risk-intelligence-matrix.png)
 
-<p align="center">
-  <img src="assets/screenshots/global-expansion-dashboard.png" width="1000"/>
-</p>
+Conceptual framework showing how geopolitical, regulatory and institutional considerations may be incorporated into expansion analysis.
+
+### International Expansion Strategic Framework
+
+![International Expansion Strategic Framework](assets/screenshots/international-expansion-strategic-framework.png)
+
+Conceptual framework for structuring international expansion questions.
 
 ---
 
-## AI Commercial Operations Dashboard
+## Scope & Limitations
 
-Executive commercial intelligence dashboard focused on AI-assisted lead qualification, strategic pipeline monitoring, revenue operations, partnership analytics, and automation efficiency.
+These are **concept prototypes**, not production applications, client dashboards or claims of proprietary market data.
 
-<p align="center">
-  <img src="assets/screenshots/ai-commercial-operations-dashboard.png" width="1000"/>
-</p>
+They are retained because they show the evolution from visual strategic concepts toward the implemented, explainable applications in the current portfolio.
 
 ---
 
-## Geopolitical Risk Intelligence Matrix
+## Author
 
-Strategic geopolitical intelligence dashboard designed to support international market expansion, regulatory risk assessment, institutional analysis, and cross-border operational strategy.
-
-<p align="center">
-  <img src="assets/screenshots/geopolitical-risk-intelligence-matrix.png" width="1000"/>
-</p>
-
----
-
-## International Expansion Strategic Framework
-
-Strategic framework designed to support AI-enabled international expansion through market intelligence, geopolitical assessment, regulatory analysis, strategic partnerships, operational execution, and continuous optimization.
-
-<p align="center">
-  <img src="assets/screenshots/international-expansion-strategic-framework.png" width="1000"/>
-</p>
+**Eduardo Ambrosin**  
+International Business Development · Strategic Partnerships · GTM · Commercial Intelligence
