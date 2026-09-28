@@ -1,5 +1,8 @@
 # 🇧🇷 Brazilian Agribusiness Expansion into GCC Markets
 
+> **Illustrative strategic case study:** this document demonstrates a cross-border expansion framework. Market conditions, regulations and demand assumptions should be validated against current sources before real-world use.
+
+
 ## Executive Summary
 
 The Gulf Cooperation Council (GCC) region represents one of the most attractive international growth opportunities for Brazilian agribusiness producers.
