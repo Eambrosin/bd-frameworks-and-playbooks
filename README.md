@@ -6,6 +6,8 @@ A practical knowledge base of Business Development frameworks, commercial decisi
 
 This repository serves as the **methodological foundation** behind the broader AI-Assisted Commercial Intelligence portfolio developed by Eduardo Ambrosin.
 
+> **Scope note:** Examples and dashboard figures in this repository are illustrative unless explicitly stated otherwise. They demonstrate commercial reasoning and framework design, not client data or current market measurements.
+
 ![Business Development](https://img.shields.io/badge/Business%20Development-Frameworks-1f6feb)
 ![GTM](https://img.shields.io/badge/GTM-Strategy-success)
 ![Partnerships](https://img.shields.io/badge/Strategic%20Partnerships-Playbooks-orange)
