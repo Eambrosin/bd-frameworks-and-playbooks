@@ -1,5 +1,8 @@
 # 🇦🇪 UAE Technology Company Entering Brazil
 
+> **Illustrative strategic case study:** this document demonstrates a market-entry framework. Any market statistics, regulatory assumptions or sector conditions should be validated against current sources before real-world use.
+
+
 ## Executive Summary
 
 Brazil represents the largest economy in Latin America and one of the region's most attractive technology markets.
