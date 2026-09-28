@@ -1,81 +1,55 @@
-# 🌍 Market Entry Strategy Framework
+# Market Entry Strategy Frameworks
 
-![Status](https://img.shields.io/badge/Status-Active-success)
-![Business Development](https://img.shields.io/badge/Business_Development-Strategic-blue)
-![International Expansion](https://img.shields.io/badge/International_Expansion-LATAM↔MENA-orange)
-![Focus](https://img.shields.io/badge/Focus-Market_Entry-purple)
+A compact collection of illustrative market-entry case studies and structured international expansion thinking.
 
----
+> **Important:** the case studies in this folder are strategic examples, not live market research reports. Market statistics, regulations and commercial assumptions should be independently validated before real-world use.
 
-## Executive Summary
+## Available Case Studies
 
-This repository showcases strategic market expansion frameworks, international business development initiatives, and market entry assessments focused on LATAM, MENA, and global growth opportunities.
+### [UAE Technology Company Entering Brazil](case-studies/uae-tech-entering-brazil.md)
 
-The objective is to demonstrate practical approaches to:
+Illustrative phased market-entry framework covering validation, partnership development, pilot execution and scale-up.
 
-- International Expansion
-- Strategic Partnerships
-- Go-to-Market Strategy
-- Market Intelligence
-- Business Development
-- Commercial Growth
-- Geopolitical Risk Assessment
+### [Brazilian Agribusiness Expansion into GCC Markets](case-studies/brazilian-agribusiness-gcc-expansion.md)
+
+Illustrative cross-border expansion framework focused on market prioritization, local partnerships, commercial validation and phased execution.
 
 ---
 
-## Areas of Expertise
+## Framework Logic
 
-### 🌎 International Market Expansion
+The examples use a recurring structure:
 
-Assessing market attractiveness, barriers to entry, and growth opportunities.
+```text
+MARKET CONTEXT
+      ↓
+COMMERCIAL HYPOTHESIS
+      ↓
+RISKS & BARRIERS
+      ↓
+PARTNER / CHANNEL OPTIONS
+      ↓
+VALIDATION
+      ↓
+ENTRY PLAN
+      ↓
+SCALE
+```
 
-### 🤝 Strategic Partnerships
-
-Developing partnership ecosystems that accelerate market penetration.
-
-### 📊 Market Intelligence
-
-Analyzing industry dynamics, competitive landscapes, and commercial opportunities.
-
-### 🚀 Go-to-Market Strategy
-
-Designing practical frameworks for successful international expansion.
-
----
-
-## Featured Case Studies
-
-### 🇦🇪 UAE Technology Company Entering Brazil
-
-Strategic assessment of opportunities, risks, and recommended market entry approaches for UAE-based technology firms seeking expansion into LATAM.
-
-### 🇧🇷 Brazilian Agribusiness Expansion into GCC
-
-Commercial expansion strategy focused on exporting Brazilian agricultural products into Gulf Cooperation Council markets.
-
-### ☀️ LATAM Renewable Energy Expansion Strategy
-
-Market assessment and growth framework for renewable energy initiatives across Latin America.
+The purpose is to show how market-entry questions can be converted into a structured Business Development process.
 
 ---
 
-## Strategic Focus Regions
+## Related Portfolio
 
-- Brazil
-- LATAM
-- United Arab Emirates
-- Saudi Arabia
-- GCC Countries
-- Southern Europe
+**[AI Business Development Toolkit](https://github.com/Eambrosin/AI-Business-Development-Toolkit)**  
+**[BD Frameworks & Playbooks](https://github.com/Eambrosin/bd-frameworks-and-playbooks)**
+
+The next **EXPAND** layer of the portfolio remains explicitly marked as *In Development* until it reaches the same implementation standard as the live PRIORITIZE, ENGAGE and PARTNER applications.
 
 ---
 
 ## Author
 
-### Eduardo Ambrosin
-
-Business Development Manager | B2B/B2G
-
-LATAM ↔ MENA Market Expansion
-
-PT | EN | IT | ES
+**Eduardo Ambrosin**  
+International Business Development · Strategic Partnerships · GTM · International Trade
