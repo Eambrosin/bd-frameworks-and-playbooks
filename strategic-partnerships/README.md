@@ -1,44 +1,55 @@
-# Strategic Partnership Playbook
+# Strategic Partnership Frameworks
 
-A practical framework collection for evaluating, negotiating, and scaling strategic partnerships across LATAM, North America, Europe, and the Middle East.
+A focused collection of practical decision-support frameworks for evaluating and prioritizing strategic partnerships.
 
-## Topics Covered
+> **Portfolio note:** examples and dashboard figures in this folder are illustrative/synthetic unless explicitly stated otherwise. They are designed to demonstrate commercial reasoning, not to represent client data or current market measurements.
 
-* Distributor Selection
-* Channel Partner Development
-* Joint Venture Assessment
-* Strategic Alliance Evaluation
-* Market Expansion Partnerships
-* International Growth Frameworks
+## Available Frameworks
 
-## Ideal Users
+### [Partnership Evaluation Framework](partnership-evaluation-framework.md)
+Weighted framework for assessing strategic alignment, market access, commercial potential, operational capability, financial stability and cultural fit.
 
-* Business Development Managers
-* Strategic Partnership Managers
-* Market Expansion Leaders
-* International Trade Specialists
-* Startup Founders
+### [Partner Selection Matrix](dashboards/partner-selection-matrix.md)
+Two-dimensional framework comparing strategic fit and market reach.
 
-## Framework Collection
+### [Strategic Partner Scorecard](dashboards/strategic-partner-scorecard.md)
+Reusable weighted scorecard for partner evaluation.
 
-### Partnership Evaluation Framework
+### [Executive Partnership Dashboard](dashboards/executive-partnership-dashboard.md)
+Illustrative executive dashboard showing how partnership KPIs, funnel stages and risks can be presented.
 
-Structured scoring methodology for assessing strategic fit, market potential, and execution capability.
+### [Market Prioritization Dashboard](dashboards/market-prioritization-dashboard.md)
+Illustrative market-comparison dashboard for prioritization discussions.
 
-### Channel Partnership Strategy
+---
 
-Framework for building scalable reseller and referral networks.
+## Live Application
 
-### Joint Venture Assessment
+For the implemented and test-covered decision engine, see:
 
-Risk-reward model for evaluating cross-border partnership opportunities.
+**[Partnership Opportunity Finder](https://github.com/Eambrosin/partnership-opportunity-finder)**  
+**[Live Streamlit Application](https://partnership-opportunity-finder-eambrosin.streamlit.app/)**
 
-### Distributor Selection Framework
+The live application provides configurable scoring, partnership archetypes, explainable score breakdowns, recommended actions and downloadable opportunity briefs.
 
-Step-by-step process for selecting and managing international distributors.
+---
+
+## Intended Use
+
+These frameworks can support:
+
+- strategic partnership discovery
+- distributor / channel evaluation
+- market-entry partner assessment
+- alliance prioritization
+- early-stage partnership discussions
+- structured internal decision-making
+
+They are decision-support tools and should be adapted to the organization, market and evidence available.
+
+---
 
 ## Author
 
-Eduardo Ambrosin
-
-Business Development | LATAM ↔ MENA Expansion | Strategic Partnerships
+**Eduardo Ambrosin**  
+International Business Development · Strategic Partnerships · GTM · International Trade
