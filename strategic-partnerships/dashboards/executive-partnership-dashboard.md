@@ -1,5 +1,8 @@
 # Executive Partnership Dashboard
 
+> **Illustrative example:** all organizations, KPIs, revenue figures and pipeline values below are synthetic and are included only to demonstrate dashboard structure.
+
+
 ## Executive Summary
 
 | KPI                           | Current | Target | Status |
