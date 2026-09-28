@@ -1,5 +1,8 @@
 # AI-Assisted Market Expansion Analysis
 
+> **Concept note:** this document illustrates how AI-assisted workflows may support market-expansion analysis. It is not a live market-intelligence report and does not substitute for current sourced research.
+
+
 ## Overview
 
 International business expansion has become increasingly data-driven and strategically complex. Companies entering new markets must evaluate economic trends, geopolitical conditions, regulatory environments, logistics infrastructure, and commercial opportunities before establishing operations abroad.
