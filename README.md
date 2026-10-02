@@ -923,7 +923,7 @@ The goal is to make Business Development decisions more **structured, transparen
 
 **Eduardo Ambrosin**
 
-International Business Development · GTM · Strategic Partnerships · Commercial Intelligence · AI-Assisted Systems
+International Business Development | Strategic Partnerships | GTM | Commercial Intelligence
 
 [GitHub](https://github.com/Eambrosin)
 
