@@ -1,6 +1,8 @@
 # Experience-Based Case — Solar Commercial Growth & International Sourcing
 
 > **Experience-based case.** This case reflects Eduardo Ambrosin's work founding and commercially developing Seleto Solar.
+>
+> **Role / period:** Founder & Business Director, Seleto Solar | **Sep 2021–Jul 2024**
 
 ## Context
 
