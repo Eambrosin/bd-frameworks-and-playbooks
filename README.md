@@ -16,6 +16,36 @@ This repository serves as the **methodological foundation** behind the broader A
 
 ---
 
+## Experience-Based Commercial Cases
+
+These cases are based on Eduardo Ambrosin's professional experience and are separated from the illustrative market-entry examples elsewhere in the repository.
+
+### [Public-Sector Contract Growth & Multi-Site Execution](experience-based-cases/public-sector-contract-growth.md)
+
+An anonymized B2G / services case covering opportunity qualification, procurement, execution feasibility and multi-site delivery.
+
+**Documented outcomes represented in the case:** USD 4M+ total secured contract value, including USD 3M+ public-sector contracts; 1,000+ people employed cumulatively across seven years and activity across 15 cities.
+
+### [Solar Commercial Growth & International Sourcing](experience-based-cases/solar-commercial-growth-and-sourcing.md)
+
+An experience-based case on building commercial growth while connecting B2B sales with photovoltaic sourcing and supplier decisions.
+
+**Documented outcomes represented in the case:** USD 1.8M total revenue, including USD 1M+ during the first 18 months.
+
+---
+
+## Reusable Commercial Assets
+
+| Asset | Use |
+|---|---|
+| [Distributor Selection Scorecard](templates/distributor-selection-scorecard.csv) | Weighted comparison of distributors / channel partners |
+| [Partner Due Diligence Checklist](templates/partner-due-diligence-checklist.md) | Commercial, operational, legal and governance review before committing resources |
+| [90-Day Market Entry Playbook](templates/90-day-market-entry-playbook.md) | Validate → Engage → Execute → Decide framework for a new market |
+
+These files are intended to be reused and adapted rather than treated as static theory.
+
+---
+
 # Purpose
 
 Business Development often depends on judgment, experience and fragmented internal knowledge.
@@ -827,26 +857,18 @@ The emphasis will remain on **practical execution and commercial decision suppor
 
 ---
 
-# Planned Playbooks
+# Repository Development
 
-Future additions may include:
+The priority is to expand the library with **experience-based cases and reusable execution assets**, not simply add more conceptual frameworks.
 
-- Strategic Partnership Playbook
-- Market Entry Playbook
-- GTM Planning Playbook
-- International Expansion Checklist
-- Partner Qualification Framework
-- Commercial Discovery Guide
-- ICP Definition Framework
-- Opportunity Prioritization Model
-- B2B Account Strategy Framework
-- B2G Opportunity Qualification Framework
-- Cross-Border Commercial Readiness Checklist
-- 90-Day Market Entry Plan
-- Partnership Governance Framework
-- Commercial Risk Assessment
-- Territory Prioritization Framework
-- Stakeholder Mapping Framework
+Next useful additions include:
+
+- international trade / transaction-origination case
+- partner governance template
+- B2G bid / no-bid scorecard
+- account-plan template
+- market-entry decision memo
+- stakeholder-mapping template
 
 ---
 
