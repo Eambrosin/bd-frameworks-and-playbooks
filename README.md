@@ -40,7 +40,7 @@ An experience-based case on building commercial growth while connecting B2B sale
 | [Partner Due Diligence Checklist](templates/partner-due-diligence-checklist.md) | Structure commercial, operational, legal and governance review |
 | [90-Day Market Entry Playbook](templates/90-day-market-entry-playbook.md) | Convert a market-entry hypothesis into a phased execution plan |
 
-These assets are designed as practical working templates within the portfolio and can be adapted to different commercial contexts.
+These assets demonstrate practical working structures for different commercial contexts. Reuse outside this portfolio is subject to the repository license.
 
 ---
 
