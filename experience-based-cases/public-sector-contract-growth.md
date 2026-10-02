@@ -1,6 +1,8 @@
 # Experience-Based Case — Public-Sector Contract Growth & Multi-Site Execution
 
 > **Experience-based, anonymized case.** This case reflects Eduardo Ambrosin's professional experience. Client/entity names and operationally sensitive details are intentionally omitted.
+>
+> **Role / period:** Executive Director, Port Service | **Feb 2017–Jul 2024**
 
 ## Context
 
