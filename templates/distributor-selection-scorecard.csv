@@ -1,0 +1,13 @@
+criterion,weight,score_1_to_5,weighted_score,evidence_required,notes
+Market coverage,0.15,,,Documented geographic/customer coverage,
+Relevant customer base,0.15,,,Evidence of active customers in target segment,
+Commercial capability,0.15,,,Sales team structure and pipeline-generation capability,
+Industry reputation,0.10,,,References and market reputation,
+Financial stability,0.10,,,Public filings/references/credit evidence where appropriate,
+Strategic alignment,0.10,,,Fit with target positioning and commercial model,
+Technical/service capability,0.08,,,Ability to support installation/service/training if relevant,
+Regulatory/compliance readiness,0.07,,,Required licenses/compliance evidence,
+Reporting/CRM discipline,0.04,,,Ability to share pipeline/activity data,
+Investment commitment,0.03,,,Resources committed to launch/development,
+Management engagement,0.03,,,Senior sponsorship and responsiveness,
+TOTAL,1.00,,,,
